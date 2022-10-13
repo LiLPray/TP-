@@ -1,0 +1,112 @@
+
+.mode{
+    text-align: right;
+}
+
+.container-fluid {
+    background-color: royalblue;
+}
+
+section {
+    margin-left: 5%;
+}
+
+h1 {
+    text-align: center;
+    color:white;
+    background-color:royalblue;
+    display:flexbox;
+    justify-content: center;
+    width: 40%;
+    border: 1px solid black;
+    text-align: justify;
+    padding: 12px; 
+ 
+}
+
+h2 {
+    color: white;
+    padding: 2%;
+}
+
+p{
+    color: white;
+}
+
+.presentation{
+    padding-left: 1%;
+}
+
+h3{
+    color: white;
+    padding-left: 1%;
+}
+
+.presentation{
+    padding-left: 1%;
+}
+
+.head {
+    display:flexbox;
+    justify-content: center;
+    background-color: royalblue;
+    width: 30%;
+    border: 1px solid black;
+    text-align: justify;
+    padding: 12px; 
+    color:white;
+    text-decoration: underline;
+}
+
+#conteneur {
+    display:flexbox;
+    justify-content: center;
+    width: 25%;
+    border: 1px solid black;
+    text-align: justify;
+    padding: 12px; 
+}
+
+
+ul {
+    color: white;
+    text-align: center;    
+    display:flexbox;
+    justify-content: center;
+    width: 40%;
+    border: 2px solid royalblue;
+    text-align: justify;
+    padding: 12px; 
+    list-style-type: square;
+}
+
+.question{
+    text-decoration: underline;
+    margin-left: 10%;
+}
+
+#coche{
+    margin-top: 5%;
+    margin-left: 30%;
+    text-align: center;    
+    display:flexbox;
+    justify-content: center;
+    width: 80%;
+    border: 3px white;
+    text-align: justify;
+
+  
+}
+
+footer {
+    text-align: right;
+    margin: 3%;
+}
+
+#contact{
+    color: white;
+}
+
+#txt{
+    color: white;
+}
